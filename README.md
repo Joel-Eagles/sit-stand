@@ -19,6 +19,12 @@ right clicking on the tray icon will give you a few options
   <li>setting the custom... interval will create a config.txt file in %localappdata%/sitstandtimer with the values. you can directly modify the txt if you like</li>
 </ul>
 
+<img src="/Images/33508278-6c74-4123-ac7d-7704df6b9bc7.png">
+<img src="/Images/eb38b3bf-4df7-4700-89ef-c0ca5cca368e.png">
+<img src="/Images/c9f3b782-f705-40b3-8f44-d298361789fc.png">
+<img src="/Images/88402238-288d-4209-aa0b-cb7987a38e3e.png">
+<img src="/Images/f9862c76-f3d4-4c2c-a691-f0806c52bee0.png">
+
 <b>Instructions for Automatic Install</b>
 <ol>
   <li>Go to releases on the right side in github</li>
