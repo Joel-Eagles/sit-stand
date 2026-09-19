@@ -1,6 +1,4 @@
 # sit-stand
-I hesitated to post this as i didn't really do anything other than prompt Claude for it but here it is.
-
 This program is not signed and never will be. my bad.
 
 a crappy little sit stand timer for windows to remind you to adjust your standing desk
